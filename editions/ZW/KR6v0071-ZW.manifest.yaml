@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6v0071/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0071/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 姚和上金剛五禮一本
+  identifiers:
+    krp: KR6v0071
+    cbeta: ZW07n0059a
+    cbeta_old_id: ZW07n0059a
+    authorityid: CA0008470
+    json_key: ZW0059a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW07/ZW07n0059a.xml
+    old_id: ZW07n0059a
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0071_000-ZW.yaml, hash: 'sha256:e554f2de85032554d5b485a5c866414993e592d699afc592a71ef19356d121ea'}
+  - {seq: 1, filename: KR6v0071_001-ZW.yaml, hash: 'sha256:686615902cfe97a25c7c843f043870a905657612df471f65651e2ea94cd970fe'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0071_000-ZW.markers.yaml, hash: 'sha256:429b5b600e1ce663cd3745522ae776b364c8166a94c01aedf0edbb4de1a5fa0d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0071_001-ZW.markers.yaml, hash: 'sha256:ebdf00ca17189cd2efa8a173d85ff93741c25763e76ca68d8b553f8b062b4757'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0071_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0071_ZW_000-mulu-2
+    span:
+    - front
+    - 1608
+    - 1608
+  label: 錄文一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0071_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 272
+  label: 姚和上金剛五禮一本
+  type: juan
+  level: 1
+hash: sha256:521b0ef9a063c5b437091e0a968cdec2f51488b4c17134bee4663568a9c77746
