@@ -19,17 +19,17 @@ metadata:
     short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0071_000-ZW.yaml, hash: 'sha256:e554f2de85032554d5b485a5c866414993e592d699afc592a71ef19356d121ea'}
+  - {seq: 0, filename: KR6v0071_000-ZW.yaml, hash: 'sha256:5cc38d29d1d7a8b38ee4bda0f5492326ccbba8afef680e445fb507a6188da4f4'}
   - {seq: 1, filename: KR6v0071_001-ZW.yaml, hash: 'sha256:686615902cfe97a25c7c843f043870a905657612df471f65651e2ea94cd970fe'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0071_000-ZW.markers.yaml, hash: 'sha256:429b5b600e1ce663cd3745522ae776b364c8166a94c01aedf0edbb4de1a5fa0d'}
+  - {seq: 0, role: markers, filename: assets/KR6v0071_000-ZW.markers.yaml, hash: 'sha256:24627884f3f2d1e3b86fd30f7060dfd6a1104f4e4cb7233264d48cd8533cf229'}
   - {seq: 1, role: markers, filename: assets/KR6v0071_001-ZW.markers.yaml, hash: 'sha256:ebdf00ca17189cd2efa8a173d85ff93741c25763e76ca68d8b553f8b062b4757'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0071_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0071_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 1608
     - 1608
   label: 錄文一
@@ -55,4 +55,4 @@ table_of_contents:
   label: 姚和上金剛五禮一本
   type: juan
   level: 1
-hash: sha256:521b0ef9a063c5b437091e0a968cdec2f51488b4c17134bee4663568a9c77746
+hash: sha256:fe8a41ce0de18ee51fe130389a9b813a0612586a57f8c4f3ffc9c67f40a1a196
